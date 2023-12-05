@@ -1,5 +1,5 @@
 # Blogging Website
-*For **Hacktoberfest** please refer [Contributing.md](https://github.com/pushpakjn/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
+ <br/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,11 +17,6 @@
 
 ## Introduction
 Welcome to the Blogging Website project! This is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create and manage their blogs, post projects, follow other users, comment on blogs, save content, bookmark blogs, and more. The application also includes features such as email verification for user registration and Redux for state management.
-
----
-## Demo
-
-https://github.com/pushpakjn/Blog-website/assets/98750053/d762e07b-2282-4a9e-9dde-30f5a322c6a1
 
 ---
 
